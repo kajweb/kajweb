@@ -1,4 +1,13 @@
 ### Hi there, I'm [kajweb](https://iwwee.com)! ❤️ 
+
+<div>你好</div>
+
+<div align="center">你好2</div>
+
+<div style="text-aligin: center;">你好3</div>
+
+<center>你好4</center>
+
 <br>
 <div style="text-aligin: center;">
 <a href="mailto:kajweb.me@gmail.com"> <img align="left" alt="kajweb's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
