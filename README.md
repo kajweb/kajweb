@@ -33,11 +33,11 @@
 
 
 ## Pinned
-[![wqxuetang_downloader](https://github-readme-stats.vercel.app/api/pin/?username=kajweb&repo=wqxuetang_downloader&theme=blue-green)](https://github.com/kajweb/wqxuetang_downloader)
-[![douyin_downloader](https://github-readme-stats.vercel.app/api/pin/?username=kajweb&repo=douyin_downloader&theme=great-gatsby)](https://github.com/kajweb/douyin_downloader)
+[![wqxuetang_downloader](https://github-readme-stats-one.vercel.app/api/pin/?username=kajweb&repo=wqxuetang_downloader&theme=blue-green)](https://github.com/kajweb/wqxuetang_downloader)
+[![douyin_downloader](https://github-readme-stats-one.vercel.app/api/pin/?username=kajweb&repo=douyin_downloader&theme=great-gatsby)](https://github.com/kajweb/douyin_downloader)
 
-[![dict](https://github-readme-stats.vercel.app/api/pin/?username=kajweb&repo=dict&theme=radical)](https://github.com/kajweb/dict)
-[![multicoloured](https://github-readme-stats.vercel.app/api/pin/?username=kajweb&repo=multicoloured&theme=highcontrast)](https://github.com/kajweb/multicoloured)
+[![dict](https://github-readme-stats-one.vercel.app/api/pin/?username=kajweb&repo=dict&theme=radical)](https://github.com/kajweb/dict)
+[![multicoloured](https://github-readme-stats-one.vercel.app/api/pin/?username=kajweb&repo=multicoloured&theme=highcontrast)](https://github.com/kajweb/multicoloured)
 
 
 
