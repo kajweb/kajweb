@@ -24,8 +24,8 @@
 
 ## Statistics 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kajweb&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajweb&layout=compact&theme=chartreuse-dark)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kajweb&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajweb&layout=compact&theme=chartreuse-dark)](#)
 
 <h2 align="right">Introduction</h2>
 <a href="https://iwwee.com" title="link to my Blog">  <img align="right" width="120" height="120" alt="my-blog" src="https://avatars2.githubusercontent.com/u/2993320?s=460&u=0f05c58a9b4519183ed48bde006a54430a6b2252&v=4" /></a>
