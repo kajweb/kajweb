@@ -1,15 +1,6 @@
 ### Hi there, I'm [kajweb](https://iwwee.com)! ❤️ 
-
-<div>你好</div>
-
-<div align="center">你好2</div>
-
-<div style="text-aligin: center;">你好3</div>
-
-<center>你好4</center>
-
 <br>
-<div style="text-aligin: center;">
+<div align="center">
 <a href="mailto:kajweb.me@gmail.com"> <img align="left" alt="kajweb's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 <a href="http://wpa.qq.com/msgrd?v=3&uin=962324338&site=qq&menu=yes"><img align="left" alt="kajweb's QQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tencentqq.svg" /></a>
 <a href="https://i.loli.net/2020/09/10/mv9n87rJheL4Cjd.png"><img align="left" alt="kajweb's Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wechat.svg" /></a> 
@@ -26,7 +17,7 @@
 
 - If my projects have helped you 🚀, please consider [sponsoring me](https://i.loli.net/2020/02/06/lcSywCLVKPTsFU4.jpg)  ~~ Thank you! ❤️
 
-<pre style="text-aligin: center;">██████╗     ██╗   ██╗   ██╗    ██╗   ██╗   ██╗    █████████╗    █████████╗
+<pre align="center">██████╗     ██╗   ██╗   ██╗    ██╗   ██╗   ██╗    █████████╗    █████████╗
 ╚═██╔═╝     ██║  ████╗  ██║    ██║  ████╗  ██║    ██╔══════╝    ██╔══════╝
   ██║       ╚██╗██╔═██╗██╔╝    ╚██╗██╔═██╗██╔╝    █████████╗    █████████╗
   ██║        ██║██║ ██║██║      ██║██║ ██║██║     ██╔══════╝    ██╔══════╝
