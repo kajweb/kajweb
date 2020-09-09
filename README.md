@@ -32,12 +32,14 @@ I am currently out of work. If you have a job opportunity, please contact me.
 
 
 
+## Statistics 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kajweb&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajweb&layout=compact&theme=chartreuse-dark)
 
 
 
-
-
+## Statistics
+![Stats](https://github-readme-stats.vercel.app/api?username=netcan)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=netcan&hide=ipynb,html&layout=compact)
 
 
