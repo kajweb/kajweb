@@ -40,6 +40,8 @@
 
 - I am currently out of work🌚. If you have a job opportunity, please contact me🌺. 
 
+- Ask me about anything [here](https://github.com/kajweb/kajweb/issues)💬.
+
 - If my projects have helped you 🚀, please consider [sponsoring me](https://i.loli.net/2020/02/06/lcSywCLVKPTsFU4.jpg)  ~~ Thank you! ❤️
 
 ### My Tech Stack 
@@ -49,7 +51,7 @@
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
 ![Github](http://img.shields.io/badge/-Github-0073AA?style=flat-square&logo=GitHub&logoColor=ffffff)
 ![Hexo](http://img.shields.io/badge/-Hexo-0073AA?style=flat-square&logo=wordpress&logoColor=ffffff)
-![Mac OS](http://img.shields.io/badge/-Mac-OS-0073AA?style=flat-square&logo=Apple&logoColor=ffffff)
+![Mac OS](http://img.shields.io/badge/-Mac%20OS-0073AA?style=flat-square&logo=apple&logoColor=ffffff)
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -67,7 +69,7 @@
 ![PHP](http://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=ffffff)
 ![weiPHP](https://img.shields.io/badge/-weiPHP-1D365D?style=flat-square&logo=WeChat&logoColor=ffffff)
 ![Swoole](https://img.shields.io/badge/-Swoole-23E44D27?style=flat-square&logo=php&logoColor=ffffff)
-![Easy Swoole](https://img.shields.io/badge/-Easy-Swoole-E44D27?style=flat-square&logo=PHP&logoColor=ffffff)
+![Easy Swoole](https://img.shields.io/badge/-Easy%20Swoole-E44D27?style=flat-square&logo=php&logoColor=ffffff)
 
 #### Database
 ![MySQL](http://img.shields.io/badge/-MySQL-007599?style=flat-square&logo=MySQL&logoColor=ffffff)
