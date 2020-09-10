@@ -1,4 +1,4 @@
-### Hi there, I'm [kajweb](https://iwwee.com)! ❤️ 
+### Hi there, I'm [![GitHub followers](https://img.shields.io/github/followers/kajweb?label=kajweb&style=social)](https://iwwee.com)! ❤️ 
 <br>
 <pre align="center">
 ██████████████████████████████████████████████████████████████████████████████████████████═╗
@@ -18,7 +18,8 @@
 <div align="center">
 <a href="http://wpa.qq.com/msgrd?v=3&uin=962324338&site=qq&menu=yes"><img alt="kajweb's QQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tencentqq.svg" /></a>　　　
 <a href="mailto:kajweb.me@gmail.com"> <img alt="kajweb's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>　　　
-<a href="https://i.loli.net/2020/09/10/mv9n87rJheL4Cjd.png"><img alt="kajweb's Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wechat.svg" /></a> 
+<a href="https://i.loli.net/2020/09/10/mv9n87rJheL4Cjd.png"><img alt="kajweb's Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wechat.svg" /></a>　　　
+![GitHub followers](https://img.shields.io/github/followers/kajweb?label=Click&style=social)
 </div>
 
 ## Statistics 
@@ -54,7 +55,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=F7DF1C&color=FFCE5A)
-
 ![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Less](https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=less)
