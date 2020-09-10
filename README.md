@@ -48,8 +48,6 @@
 </a>
 
 ### My Tech Stack 
-<iframe src="https://ghbtns.com/github-btn.html?user=mdo&type=follow&count=true&size=large" frameborder="0" scrolling="0" width="230" height="30" title="GitHub" align="right"></iframe>
-
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3C78A9?style=flat-square&logo=python&logoColor=ffffff)
 ![JSON Web Tokens](http://img.shields.io/badge/-JSON%20Web%20Tokens-E11E27?style=flat-square&logo=JSON-Web-Tokens)
