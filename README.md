@@ -42,6 +42,31 @@
 
 - If my projects have helped you 🚀, please consider [sponsoring me](https://i.loli.net/2020/02/06/lcSywCLVKPTsFU4.jpg)  ~~ Thank you! ❤️
 
+### My Tech Stack 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
+![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
+![Apache](http://img.shields.io/badge/-Apache-E11E27?style=flat-square&logo=apache)
+![PHP](http://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=ffffff)
+![Python](http://img.shields.io/badge/-Python-3C78A9?style=flat-square&logo=python&logoColor=ffffff)
+![Hexo](http://img.shields.io/badge/-Hexo-0073AA?style=flat-square&logo=wordpress&logoColor=ffffff)
+
+#### Frontend
+![HTML5](https://img.shields.io/badge/-HTML5-E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=F7DF1C&color=FFCE5A)
+
+![Gulp](https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=ffffff)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+![Less](https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=less)
+![Bootstrap](http://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+
+#### Database
+![MySQL](http://img.shields.io/badge/-MySQL-007599?style=flat-square&logo=MySQL&logoColor=ffffff)
+![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-23E44D27?style=flat-square&logo=PostgreSQL&logoColor=ffffff)
+![MS Access](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=Microsoft-Access&logoColor=ffffff)
+
 ## Pinned
 <!-- [![wqxuetang_downloader](https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=wqxuetang_downloader&theme=blue-green)](https://github.com/kajweb/wqxuetang_downloader)
 [![douyin_downloader](https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=douyin_downloader&theme=great-gatsby)](https://github.com/kajweb/douyin_downloader) -->
