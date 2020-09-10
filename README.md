@@ -76,9 +76,10 @@
 ![MySQL](http://img.shields.io/badge/-MySQL-007599?style=flat-square&logo=MySQL&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-F05032?style=flat-square&logo=Redis&logoColor=ffffff)
 ![Memcached](https://img.shields.io/badge/-Memcached-1D365D?style=flat-square&logo=Sina-Weibo)
-![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-23E44D27?style=flat-square&logo=PostgreSQL&logoColor=ffffff)
 ![RDS](https://img.shields.io/badge/-RDS-CC6699?style=flat-square&logo=Alipay&logoColor=ffffff)
 ![MS Access](http://img.shields.io/badge/-MS%20Access-CC2927?style=flat-square&logo=Microsoft-Access&logoColor=ffffff)
+
+<!-- ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-23E44D27?style=flat-square&logo=PostgreSQL&logoColor=ffffff) -->
 
 ## Pinned
 <!-- [![wqxuetang_downloader](https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=wqxuetang_downloader&theme=blue-green)](https://github.com/kajweb/wqxuetang_downloader)
