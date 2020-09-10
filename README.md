@@ -44,9 +44,8 @@
 
 ### My Tech Stack 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
-![PHP](http://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3C78A9?style=flat-square&logo=python&logoColor=ffffff)
-![Apache](http://img.shields.io/badge/-Apache-E11E27?style=flat-square&logo=apache)
+![JSON Web Tokens](http://img.shields.io/badge/-JSON%20Web%20Tokens-E11E27?style=flat-square&logo=JSON-Web-Tokens)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
 ![Hexo](http://img.shields.io/badge/-Hexo-0073AA?style=flat-square&logo=wordpress&logoColor=ffffff)
 
@@ -62,11 +61,14 @@
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
 #### Backend
+![PHP](http://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=ffffff)
 ![Swoole](https://img.shields.io/badge/-Swoole-23E44D27?style=flat-square&logo=php&logoColor=ffffff)
 ![Easy Swoole](https://img.shields.io/badge/-Easy-Swoole-E44D27?style=flat-square&logo=php&logoColor=ffffff)
 
 #### Database
 ![MySQL](http://img.shields.io/badge/-MySQL-007599?style=flat-square&logo=MySQL&logoColor=ffffff)
+![Redis](https://img.shields.io/badge/-Redis-F05032?style=flat-square&logo=Redis&logoColor=ffffff)
+![Memcached](https://img.shields.io/badge/-Memcached-1D365D?style=flat-square&logo=Sina-Weibo)
 ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-23E44D27?style=flat-square&logo=PostgreSQL&logoColor=ffffff)
 ![MS Access](http://img.shields.io/badge/-MS%20Access-CC2927?style=flat-square&logo=Microsoft-Access&logoColor=ffffff)
 
