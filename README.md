@@ -1,4 +1,4 @@
-### Hi there, I'm [![GitHub followers](https://img.shields.io/github/followers/kajweb?label=kajweb&style=social)](https://iwwee.com)! ❤️ 
+### Hi there, I'm [kajweb](https://iwwee.com)! ❤️ 
 <br>
 <pre align="center">
 ██████████████████████████████████████████████████████████████████████████████████████████═╗
@@ -19,7 +19,7 @@
 <a href="http://wpa.qq.com/msgrd?v=3&uin=962324338&site=qq&menu=yes"><img alt="kajweb's QQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tencentqq.svg" /></a>　　　
 <a href="mailto:kajweb.me@gmail.com"> <img alt="kajweb's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>　　　
 <a href="https://i.loli.net/2020/09/10/mv9n87rJheL4Cjd.png"><img alt="kajweb's Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wechat.svg" /></a>　　　
-![GitHub followers](https://img.shields.io/github/followers/kajweb?label=Click&style=social)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/kajweb?label=kajweb&style=social">
 </div>
 
 ## Statistics 
