@@ -54,11 +54,11 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=F7DF1C&color=FFCE5A)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Gulp](https://img.shields.io/badge/-Nodejs-CF4647?style=flat-square&logo=gulp&logoColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-CF4647?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Less](https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=CSS-Wizardry)
-![Bootstrap](http://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=ffffff)
-![Nodejs](https://img.shields.io/badge/-Gulp-black?style=flat-square&logo=Node.js)
+![Vue](http://img.shields.io/badge/-Vue-7952B3?style=flat-square&logo=Vue.js&logoColor=ffffff)
+![Gulp](https://img.shields.io/badge/-Gulp-black?style=flat-square&logo=gulp)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
 #### Backend
