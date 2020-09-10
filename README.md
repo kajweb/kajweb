@@ -47,29 +47,34 @@
 ![Python](http://img.shields.io/badge/-Python-3C78A9?style=flat-square&logo=python&logoColor=ffffff)
 ![JSON Web Tokens](http://img.shields.io/badge/-JSON%20Web%20Tokens-E11E27?style=flat-square&logo=JSON-Web-Tokens)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
+![Github](http://img.shields.io/badge/-Github-0073AA?style=flat-square&logo=GitHub&logoColor=ffffff)
 ![Hexo](http://img.shields.io/badge/-Hexo-0073AA?style=flat-square&logo=wordpress&logoColor=ffffff)
+![Mac OS](http://img.shields.io/badge/-Mac-OS-0073AA?style=flat-square&logo=Apple&logoColor=ffffff)
 
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=F7DF1C&color=FFCE5A)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-CF4647?style=flat-square&logo=Node.js&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+<!-- ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff) -->
 ![Less](https://img.shields.io/badge/-Less-1D365D?style=flat-square&logo=CSS-Wizardry)
 ![Vue](http://img.shields.io/badge/-Vue-7952B3?style=flat-square&logo=Vue.js&logoColor=ffffff)
-![Gulp](https://img.shields.io/badge/-Gulp-black?style=flat-square&logo=gulp)
+![微信小程序](http://img.shields.io/badge/-微信小程序-7952B3?style=flat-square&logo=WeChat&logoColor=ffffff)
+<!-- ![Gulp](https://img.shields.io/badge/-Gulp-black?style=flat-square&logo=gulp) -->
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
 #### Backend
 ![PHP](http://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=ffffff)
+![weiPHP](https://img.shields.io/badge/-weiPHP-1D365D?style=flat-square&logo=WeChat&logoColor=ffffff)
 ![Swoole](https://img.shields.io/badge/-Swoole-23E44D27?style=flat-square&logo=php&logoColor=ffffff)
-![Easy Swoole](https://img.shields.io/badge/-Easy-Swoole-E44D27?style=flat-square&logo=php&logoColor=ffffff)
+![Easy Swoole](https://img.shields.io/badge/-Easy-Swoole-E44D27?style=flat-square&logo=PHP&logoColor=ffffff)
 
 #### Database
 ![MySQL](http://img.shields.io/badge/-MySQL-007599?style=flat-square&logo=MySQL&logoColor=ffffff)
 ![Redis](https://img.shields.io/badge/-Redis-F05032?style=flat-square&logo=Redis&logoColor=ffffff)
 ![Memcached](https://img.shields.io/badge/-Memcached-1D365D?style=flat-square&logo=Sina-Weibo)
 ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-23E44D27?style=flat-square&logo=PostgreSQL&logoColor=ffffff)
+![RDS](https://img.shields.io/badge/-RDS-CC6699?style=flat-square&logo=Alipay&logoColor=ffffff)
 ![MS Access](http://img.shields.io/badge/-MS%20Access-CC2927?style=flat-square&logo=Microsoft-Access&logoColor=ffffff)
 
 ## Pinned
