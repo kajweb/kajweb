@@ -19,6 +19,7 @@
 <a href="http://wpa.qq.com/msgrd?v=3&uin=962324338&site=qq&menu=yes"><img alt="kajweb's QQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tencentqq.svg" /></a>　　　
 <a href="mailto:kajweb.me@gmail.com"> <img alt="kajweb's Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>　　　
 <a href="https://i.loli.net/2020/09/10/mv9n87rJheL4Cjd.png"><img alt="kajweb's Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wechat.svg" /></a>　　　
+<a href="https://iwwee.com"><img alt="kajweb's Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" /></a>　　　
 </div>
 
 ## Statistics 
@@ -103,3 +104,7 @@
 <a href="https://github.com/kajweb/multicoloured" title="multicoloured">
   <img align="center" src="https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=multicoloured&theme=highcontrast" />
 </a>
+
+
+[github-readme-stats]:https://github.com/anuraghazra/github-readme-stats
+[simpleicons]:https://simpleicons.org
