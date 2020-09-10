@@ -22,12 +22,17 @@
 </div>
 
 ## Statistics 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kajweb&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](#Statistics)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajweb&layout=compact&theme=chartreuse-dark)](#Statistics)
+<!-- [![kajweb's github stats](https://github-readme-stats.vercel.app/api?username=kajweb&show_icons=true&include_all_commits=true&theme=chartreuse-dark)](#Statistics)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajweb&layout=compact&theme=chartreuse-dark)](#Statistics) -->
+<a href="#Statistics" title="kajweb's github stats">
+  	<img align="center" src="https://github-readme-stats.vercel.app/api?username=kajweb&show_icons=true&include_all_commits=true&theme=chartreuse-dark" />
+</a>    
+<a href="#Statistics" title="Top Langs">
+  	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kajweb&layout=compact&theme=chartreuse-dark" />
+</a>
 
 <h2 align="right">Introduction</h2>
-<a href="https://iwwee.com" title="link to my Blog">  <img align="right" width="120" height="120" alt="my-blog" src="https://avatars2.githubusercontent.com/u/2993320?s=460&u=0f05c58a9b4519183ed48bde006a54430a6b2252&v=4" /></a>
+<a href="https://iwwee.com" title="link to my Blog"><img align="right" width="120" height="120" alt="my-blog" src="https://avatars2.githubusercontent.com/u/2993320?s=460&u=0f05c58a9b4519183ed48bde006a54430a6b2252&v=4" /></a>
 
 **Hi, I'm kajweb, a Full Stack Developer 💩 from China🌏.** 
 
@@ -41,15 +46,23 @@
 <!-- [![wqxuetang_downloader](https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=wqxuetang_downloader&theme=blue-green)](https://github.com/kajweb/wqxuetang_downloader)
 [![douyin_downloader](https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=douyin_downloader&theme=great-gatsby)](https://github.com/kajweb/douyin_downloader) -->
 
-[![wqxuetang_downloader](https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=wqxuetang_downloader&theme=highcontrast)](https://github.com/kajweb/wqxuetang_downloader)
-[![douyin_downloader](https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=douyin_downloader&theme=radical)](https://github.com/kajweb/douyin_downloader)
-
-[![dict](https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=dict&theme=radical)](https://github.com/kajweb/dict)
-[![multicoloured](https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=multicoloured&theme=highcontrast)](https://github.com/kajweb/multicoloured)
-
-
-
-
-
+<!-- [![wqxuetang_downloader](https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=wqxuetang_downloader&theme=highcontrast)](https://github.com/kajweb/wqxuetang_downloader)
+[![douyin_downloader](https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=douyin_downloader&theme=radical)](https://github.com/kajweb/douyin_downloader) -->
+<a href="https://github.com/kajweb/wqxuetang_downloader" title="wqxuetang_downloader">
+  <img align="center" src="https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=wqxuetang_downloader&theme=highcontrast" />
+</a>    
+<a href="https://github.com/kajweb/douyin_downloader" title="douyin_downloader">
+  <img align="center" src="https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=douyin_downloader&theme=radical" />
+</a>
 
 
+
+<!-- [![dict](https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=dict&theme=radical)](https://github.com/kajweb/dict)
+[![multicoloured](https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=multicoloured&theme=highcontrast)](https://github.com/kajweb/multicoloured) -->
+
+<a href="https://github.com/kajweb/dict" title="dict">
+  <img align="center" src="https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=dict&theme=radical" />
+</a>    
+<a href="https://github.com/kajweb/multicoloured" title="multicoloured">
+  <img align="center" src="https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=multicoloured&theme=highcontrast" />
+</a>
