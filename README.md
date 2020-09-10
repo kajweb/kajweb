@@ -43,7 +43,9 @@
 
 - If my projects have helped you 🚀, please consider [sponsoring me](https://i.loli.net/2020/02/06/lcSywCLVKPTsFU4.jpg)  ~~ Thank you! ❤️
 
-<a href="https://iwwee.com" title="link to my Blog"><img align="right" width="120" height="120" alt="my-blog" src="https://avatars2.githubusercontent.com/u/2993320?s=460&u=0f05c58a9b4519183ed48bde006a54430a6b2252&v=4" /></a>
+<a href="https://iwwee.com" title="link to my Blog">
+	<img align="right" width="120" height="120" alt="my-blog" src="https://avatars2.githubusercontent.com/u/2993320?s=460&u=0f05c58a9b4519183ed48bde006a54430a6b2252&v=4" />
+</a>
 
 
 ### My Tech Stack 
@@ -110,3 +112,4 @@
 
 [github-readme-stats]:https://github.com/anuraghazra/github-readme-stats
 [simpleicons]:https://simpleicons.org
+[img.shields.io]:img.shields.io
