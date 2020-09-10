@@ -50,17 +50,17 @@
 ![Python](http://img.shields.io/badge/-Python-3C78A9?style=flat-square&logo=python&logoColor=ffffff)
 ![JSON Web Tokens](http://img.shields.io/badge/-JSON%20Web%20Tokens-E11E27?style=flat-square&logo=JSON-Web-Tokens)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
-![Github](http://img.shields.io/badge/-Github-0073AA?style=flat-square&logo=GitHub&logoColor=ffffff)
+![Github](http://img.shields.io/badge/-Github-8892BF?style=flat-square&logo=GitHub&logoColor=ffffff)
 ![Hexo](http://img.shields.io/badge/-Hexo-0073AA?style=flat-square&logo=wordpress&logoColor=ffffff)
-![Mac OS](http://img.shields.io/badge/-Mac%20OS-0073AA?style=flat-square&logo=apple&logoColor=ffffff)
+![Mac OS](https://img.shields.io/badge/-Mac%20OS-F7DF1C?style=flat-square&logo=apple&logoColor=000000&labelColor=F7DF1C&color=FFCE5A)
 
 #### Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-7952B3?style=flat-square&logo=html5&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=F7DF1C&color=FFCE5A)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Shadow Dom](https://img.shields.io/badge/-Shadow%20Dom-1D365D?style=flat-square&logo=Chrome)
 ![Vue](http://img.shields.io/badge/-Vue-7952B3?style=flat-square&logo=Vue.js&logoColor=ffffff)
-![微信小程序](http://img.shields.io/badge/-微信小程序-7952B3?style=flat-square&logo=WeChat&logoColor=ffffff)
+![微信小程序](http://img.shields.io/badge/-微信小程序-E44D27?style=flat-square&logo=WeChat&logoColor=ffffff)
 
 <!-- ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff) -->
 <!-- ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=ffffff) -->
