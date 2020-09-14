@@ -84,6 +84,14 @@
 <!-- ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-23E44D27?style=flat-square&logo=PostgreSQL&logoColor=ffffff) -->
 
 ## Pinned
+<a href="https://github.com/WXA-IDE/wxAutoIDE" title="WXA-IDE/wxAutoIDE">
+  <img align="center" src="https://github-readme-stats.kajweb.vercel.app/api/pin/?username=WXA-IDE&repo=wxAutoIDE&theme=radical" />
+</a>
+<a href="https://github.com/WXA-IDE/wxLogin" title="WXA-IDE/wxLogin">
+  <img align="center" src="https://github-readme-stats.kajweb.vercel.app/api/pin/?username=WXA-IDE&repo=wxLogin&theme=highcontrast" />
+</a>    
+
+
 <!-- [![wqxuetang_downloader](https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=wqxuetang_downloader&theme=blue-green)](https://github.com/kajweb/wqxuetang_downloader)
 [![douyin_downloader](https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=douyin_downloader&theme=great-gatsby)](https://github.com/kajweb/douyin_downloader) -->
 
