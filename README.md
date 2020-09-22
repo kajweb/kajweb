@@ -34,9 +34,7 @@
 </a>
 
 <h2 align="right">Introduction</h2>
-__Hi, I'm kajweb, a Full Stack Developer 💩 from China🌏.__  
-
-**Hi, I'm kajweb, a Full Stack Developer from China.**
+<b>Hi, I'm kajweb, a Full Stack Developer 💩 from China🌏.</b>
 
 - I'm Creator of [🔗wqxuetang_downloader](https://github.com/kajweb/wqxuetang_downloader)and [🔗py-win-tts](https://github.com/kajweb/py-win-tts) Open Source Project.  
 
