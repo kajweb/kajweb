@@ -1,5 +1,5 @@
-### Hi there, I'm [kajweb](https://iwwee.com)! ❤️ <img align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=kajweb/kajweb/readme.md" />
-<br>
+### Hi there, I'm [kajweb](https://iwwee.com)! ❤️ 
+<br><img align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=kajweb/kajweb/readme.md" /> 
 <pre align="center">
 ██████████████████████████████████████████████████████████████████████████████████████████═╗
 ██                                                                                      ██ ║
@@ -13,7 +13,7 @@
 ██                                                                                      ██ ║
 ██                                                                                      ██ ║
 ██████████████████████████████████████████████████████████████████████████████████████████ ║
-╚══════════════════════════════════════════════════════════════════════════════════════════╝</pre><img align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=kajweb/kajweb/readme.md" />
+╚══════════════════════════════════════════════════════════════════════════════════════════╝</pre>
 
 <div align="center">
 <a href="http://wpa.qq.com/msgrd?v=3&uin=962324338&site=qq&menu=yes"><img alt="kajweb's QQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tencentqq.svg" /></a>　　　
