@@ -1,4 +1,5 @@
-### Hi there, I'm [kajweb](https://iwwee.com)! ❤️ 
+### Hi there, I'm [kajweb](https://iwwee.com)! ❤️ <img align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=kajweb/kajweb/readme.md" />
+</a>
 <br>
 <pre align="center">
 ██████████████████████████████████████████████████████████████████████████████████████████═╗
@@ -33,7 +34,7 @@
 </a>
 
 <h2 align="right">Introduction</h2>
-**Hi, I'm kajweb, a Full Stack Developer 💩 from China🌏.** 
+**Hi, I'm kajweb, a Full Stack Developer** 💩 **from China**🌏.
 
 - I'm Creator of [🔗wqxuetang_downloader](https://github.com/kajweb/wqxuetang_downloader)and [🔗py-win-tts](https://github.com/kajweb/py-win-tts) Open Source Project.  
 
