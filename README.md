@@ -1,5 +1,7 @@
 ### Hi there, I'm [kajweb](https://iwwee.com)! ❤️ 
-<br><img align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=kajweb/kajweb/readme.md" /> 
+<br>
+You are the <img alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=kajweb/kajweb/readme.md" /> person to visit my homepage.
+<!--<img align="right" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=kajweb/kajweb/readme.md" /> -->
 <pre align="center">
 ██████████████████████████████████████████████████████████████████████████████████████████═╗
 ██                                                                                      ██ ║
