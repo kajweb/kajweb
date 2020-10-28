@@ -87,7 +87,7 @@
 
 ## Pinned
 <a href="https://github.com/kajweb/stop-debugger" title="kajweb/stop-debugger">
-  <img align="center" src="https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=kajweb&theme=radical" />
+  <img align="center" src="https://github-readme-stats.kajweb.vercel.app/api/pin/?username=kajweb&repo=stop-debugger&theme=radical" />
 </a>
 <a href="https://github.com/WXA-IDE/wxAutoIDE" title="WXA-IDE/wxAutoIDE">
   <img align="center" src="https://github-readme-stats.kajweb.vercel.app/api/pin/?username=WXA-IDE&repo=wxAutoIDE&theme=highcontrast" />
